@@ -19,7 +19,7 @@ Once the user selects **Flight Booking**, they can:
 - Enter Date of Travel 
 - Choose the Number of Passengers
 - Pick their Travel Class (Economy, Business, First Class)  
-<img src="./ss2.png" alt="Flight Booking Form" height="400"/>
+<img src="./ss2.png" alt="Flight Booking Form" height="550"/>
 
 ##  User Personal Details  
 Before confirming the booking, the user needs to provide personal details such as:  

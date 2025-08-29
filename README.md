@@ -13,8 +13,6 @@ The user can select the type of journey they want to book:
 
 ![Choose Transport](./ss1.png)
 
----
-
 ## Booking Details (Example: Flight Booking)  
 Once the user selects **Flight Booking**, they can:  
 - Choose **One Way** or **Round Trip**  
@@ -25,8 +23,6 @@ Once the user selects **Flight Booking**, they can:
 
 ![Flight Booking Form](./ss2.png)
 
----
-
 ##  User Personal Details  
 Before confirming the booking, the user needs to provide personal details such as:  
 - First Name & Last Name  
@@ -35,16 +31,13 @@ Before confirming the booking, the user needs to provide personal details such a
 
 ![User Details Form](./ss3.png)
 
----
 ## Booking Successfull
 Confirms your booking by showing all the required details .
 ![Booking confirmation ](./ss4.png)
 
-
-
 ## Confirmation & Ticket Download  
 After filling in all details, the user can proceed to **confirmation** and download their **ticket in PDF format**.  
-![Ticket downloaded pdf ](./ss4.png)
+![Ticket downloaded pdf ](./ss5.png)
 
 ## Features  
 ✔️ Book Cabs, Trains, or Flights  

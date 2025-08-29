@@ -10,8 +10,7 @@ The user can select the type of journey they want to book:
 - **Cab** – Comfortable rides at your doorstep  
 - **Train** – Travel across the country  
 - **Flight** – Fly to your destination  
-
-![Choose Transport](./ss1.png)
+<img src="./ss1.png" alt="Choose Transport" height="500"/>
 
 ## Booking Details (Example: Flight Booking)  
 Once the user selects **Flight Booking**, they can:  
@@ -27,12 +26,11 @@ Before confirming the booking, the user needs to provide personal details such a
 - First Name & Last Name  
 - Email & Phone Number  
 - Age & Gender  
-
-![User Details Form](./ss3.png)
+<img src="./ss3.png" alt="User Details Form" height="500"/>
 
 ## Booking Successfull
 Confirms your booking by showing all the required details .
-![Booking confirmation ](./ss4.png)
+<img src="./ss4.png" alt="Booking Confirmation" width="600"/>
 
 ## Confirmation & Ticket Download  
 After filling in all details, the user can proceed to **confirmation** and download their **ticket in PDF format**.  

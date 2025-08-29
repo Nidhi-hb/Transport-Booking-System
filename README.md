@@ -10,7 +10,7 @@ The user can select the type of journey they want to book:
 - **Cab** – Comfortable rides at your doorstep  
 - **Train** – Travel across the country  
 - **Flight** – Fly to your destination  
-<img src="./ss1.png" alt="Choose Transport" height="500"/>
+<img src="./ss1.png" alt="Choose Transport" height="400"/>
 
 ## Booking Details (Example: Flight Booking)  
 Once the user selects **Flight Booking**, they can:  
